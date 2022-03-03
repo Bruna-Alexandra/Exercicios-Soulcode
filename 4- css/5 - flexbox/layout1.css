@@ -1,0 +1,16 @@
+div div{border: 3px solid rgb(224, 75, 75);
+        width: 100px;
+        height: 100px;
+        margin: 0 0 0 20px;
+        box-shadow: -10px 10px rgb(224, 75, 75);
+}
+
+.flex{
+    display: flex;
+    margin: 20px 0 0 0;
+    height: 100px;
+    width: 755px;
+}
+.grow{flex-grow: 1;
+
+}

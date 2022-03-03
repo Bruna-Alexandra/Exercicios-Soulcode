@@ -1,0 +1,207 @@
+* {
+    Background-size: 95px 58px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-clip: content-box;
+}
+
+.round_top_l {
+    border-radius: 40px 0 0 0;
+
+}
+
+.round_top_r {
+    border-radius: 0 40px 0 0;
+
+}
+
+.round_bot_l {
+    border-radius: 0 0 0 40px;
+}
+
+.round_bot_r {
+    border-radius: 0 0 40px 0;
+}
+
+div div div {
+    background-color: rgba(88, 143, 180, 0.363);
+    height: 140px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.grupode3 {
+    display: inline-block;
+
+}
+
+header {
+    border-bottom: 2px black solid;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+pre {
+    position: relative;
+    right: 45px;
+    bottom: 13px;
+    letter-spacing: -0.09px;
+
+
+}
+
+.content {
+    max-width: 1000px;
+    margin: 0 20px 0 170px;
+}
+
+h1 {
+    position: relative;
+    left: 410px;
+}
+
+body {
+    background-image: radial-gradient(rgb(255, 255, 255), rgba(213, 250, 255, 0.568), rgb(86, 152, 214));
+    background-size: cover;
+    overflow-x: hidden;
+
+}
+
+#AC {
+    background-image: url(bandeiras/AC.png);
+
+}
+
+#AL {
+    background-image: url(bandeiras/AL.png);
+}
+
+#AP {
+    background-image: url(bandeiras/AP.png);
+
+}
+
+#AM {
+    background-image: url(bandeiras/AM.png);
+
+}
+
+#BA {
+    background-image: url(bandeiras/BA.png);
+
+}
+
+#CE {
+    background-image: url(bandeiras/CE.png);
+
+}
+
+#DF {
+    background-image: url(bandeiras/DF.png);
+
+}
+
+#ES {
+    background-image: url(bandeiras/ES.png);
+
+}
+
+#GO {
+    background-image: url(bandeiras/GO.png);
+
+}
+
+#MA {
+    background-image: url(bandeiras/MA.png);
+
+}
+
+#MT {
+    background-image: url(bandeiras/MT.png);
+
+}
+
+#MS {
+    background-image: url(bandeiras/MS.png);
+
+}
+
+#MG {
+    background-image: url(bandeiras/MG.png);
+
+}
+
+#PA {
+    background-image: url(bandeiras/PA.png);
+
+}
+
+#PB {
+    background-image: url(bandeiras/PB.png);
+
+}
+
+#PR {
+    background-image: url(bandeiras/PR.png);
+
+}
+
+#PE {
+    background-image: url(bandeiras/PE.png);
+
+}
+
+#PI {
+    background-image: url(bandeiras/PI.png);
+
+}
+
+#RJ {
+    background-image: url(bandeiras/RJ.png);
+
+}
+
+#RN {
+    background-image: url(bandeiras/RN.png);
+
+}
+
+#RS {
+    background-image: url(bandeiras/RS.png);
+
+}
+
+#RO {
+    background-image: url(bandeiras/RO.png);
+
+}
+
+#RR {
+    background-image: url(bandeiras/RR.png);
+
+}
+
+#SC {
+    background-image: url(bandeiras/SC.png);
+
+}
+
+#SP {
+    background-image: url(bandeiras/SP.png);
+
+}
+
+#SE {
+    background-image: url(bandeiras/SE.png);
+
+}
+
+#TO {
+    background-image: url(bandeiras/TO.png);
+
+}
